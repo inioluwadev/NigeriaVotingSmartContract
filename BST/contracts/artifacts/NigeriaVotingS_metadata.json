@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/INECvotingsys.sol": "NigeriaVotingS"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/INECvotingsys.sol": {
+			"keccak256": "0x7efc07b463af588780c0debdc8972bd5e13da053db99f4169da0395bd8aaeb99",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://be931dabd7fe09768ff68089e122cb13822f135525c7a72789241593d7c8972f",
+				"dweb:/ipfs/QmagyCYwnQQsGbkau13oLuCbnQbKJxPoiLbp5TJoxSU2Xf"
+			]
+		}
+	},
+	"version": 1
+}
